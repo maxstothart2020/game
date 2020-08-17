@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
+<head>
+    <base href="https://www.mathsweek.co.nz/games/rainingmoney/favicon.png" />    
+    <script>
+    var themeHasJQuery = !!window.jQuery;
+</script>
+<script src="/templates/mathsweek10/jquery.js?version=1.0.573"></script>
+<script>
+    window._$ = jQuery.noConflict(themeHasJQuery);
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="/templates/mathsweek10/bootstrap.min.js?version=1.0.573"></script>
+<!--[if lte IE 9]>
+<script src="/templates/mathsweek10/layout.ie.js?version=1.0.573"></script>
+<link rel="stylesheet" href="/templates/mathsweek10/layout.ie.css?version=1.0.573" media="screen"/>
+<![endif]-->
+<link class="" href='//fonts.googleapis.com/css?family=Noto+Sans:regular,italic,700,700italic|Life+Savers:regular,700&subset=latin' rel='stylesheet' type='text/css'>
+<script src="/templates/mathsweek10/layout.core.js?version=1.0.573"></script>
+<script src="/templates/mathsweek10/CloudZoom.js?version=1.0.573" type="text/javascript"></script>
+    
+            <link rel="stylesheet" href="/templates/mathsweek10/css/bootstrap.css?version=1.0.573" media="screen" />
+            <link rel="stylesheet" href="/templates/mathsweek10/css/template.css?version=1.0.573" media="screen" />
+            <script src="/templates/mathsweek10/script.js?version=1.0.573"></script>
+    
+</head>
+<body class=" bootstrap bd-body-9  bd-pagebackground bd-margins">
+    <div class=" bd-stretchtobottom-5 bd-stretch-to-bottom" data-control-selector=".bd-sheet-9"><div class="bd-sheet-9  bd-sheetstyles ">
+    <div class="bd-container-inner">
+        
+<div class=" bd-text404-41 bd-tagstyles bd-no-margins shape-only">
+404 - Category not found</div>
+    </div>
+</div></div>
+</body>
+</html>
